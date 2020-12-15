@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { DefaultTheme } from 'styled-components';
 
 import { colors } from './colors';
